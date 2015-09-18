@@ -1,0 +1,51 @@
+#jj{
+     background-image: url("../css/images/login.jpg");
+	 background-repeat: repeat;
+}
+
+#pp{
+	text-align:center;
+	
+}
+
+#header{
+	 background-color: black;
+}
+
+#navbar{
+	text-align: right;
+	padding-top: 60px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+    padding-left: 50px;
+	
+}
+#introtext{
+	
+	text-align: center;
+	text-align: justify;
+    text-justify: auto;
+	padding-left: 20px;
+	padding-right: 15px;
+	
+}
+
+#headlines{
+	
+	text-align : center;
+	font-family: Times Roman;
+	text-decoration: underline;
+	color: red;
+	font-weight:bold;
+}
+
+
+#mainartcle {
+	text-align: center;
+	text-align: justify;
+    text-justify: auto;
+	padding-left: 20px;
+	padding-right: 15px;
+
+
+}
